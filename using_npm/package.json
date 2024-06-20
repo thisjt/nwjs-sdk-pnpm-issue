@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"nwrun": "nw ./src"
+	},
+	"devDependencies":
+	{
+		"nw":"0.88.0-3-sdk"
+	}
+}
